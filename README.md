@@ -29,20 +29,3 @@ The above plot illustrates the training and validation curves for the baseline n
 ![Optimized Training Curves](optimized_training_curves.png)
 
 The above plot illustrates the training and validation curves for the ResNet model.
-
-## Results Comparison
-
-| Model              | Accuracy | Loss   |
-|--------------------|----------|--------|
-| **Baseline**       | 85%      | 0.35   |
-| **Optimized ResNet** | 92%      | 0.22   |
-
-The ResNet model clearly outperforms the baseline model in all metrics.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements or new features.
-
-## License
-
-This project is licensed under the MIT License.
